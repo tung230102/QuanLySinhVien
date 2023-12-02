@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLySinhVien", "QuanLySinhVien\QuanLySinhVien.csproj", "{2EED15E3-048A-43AF-B43D-9C9906D6C53A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{933B5373-35EC-4D66-B7AE-EE6F312CED11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EED15E3-048A-43AF-B43D-9C9906D6C53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EED15E3-048A-43AF-B43D-9C9906D6C53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EED15E3-048A-43AF-B43D-9C9906D6C53A}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EED15E3-048A-43AF-B43D-9C9906D6C53A}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{2EED15E3-048A-43AF-B43D-9C9906D6C53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EED15E3-048A-43AF-B43D-9C9906D6C53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933B5373-35EC-4D66-B7AE-EE6F312CED11}.Debug|Any CPU.ActiveCfg = Debug
+		{933B5373-35EC-4D66-B7AE-EE6F312CED11}.DefaultBuild|Any CPU.ActiveCfg = Debug
+		{933B5373-35EC-4D66-B7AE-EE6F312CED11}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC0EF45-A3CA-4DAA-930E-0A5707ED7879}
+	EndGlobalSection
+EndGlobal
